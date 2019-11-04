@@ -1,8 +1,10 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import "./index.css";
 import App from "./App";
 import * as serviceWorker from "./serviceWorker";
+
+// Import Default CSS
+import "assets/css/index.css";
 
 // Import App Default Themes
 import "assets/css/defaultThemes.css";
