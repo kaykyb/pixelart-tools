@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Logo PixelArt.Tools](docs/assets/logo-5x.png)
 
 ## Available Scripts
 
