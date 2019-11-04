@@ -1,5 +1,4 @@
 ![Logo PixelArt.Tools](docs/assets/logo-5x.png)
-t
 
 ## Available Scripts
 
