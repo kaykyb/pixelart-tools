@@ -4,7 +4,7 @@ import Editor from "./views/editor/Editor";
 
 const App: React.FC = () => {
   return (
-    <div className="App">
+    <div className="App dark-theme">
       <Editor />
     </div>
   );
